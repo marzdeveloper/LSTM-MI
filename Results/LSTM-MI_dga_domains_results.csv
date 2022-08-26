@@ -1,0 +1,111 @@
+class,f1_score,precision,recall,support
+fold 1,,,,
+legit,0.9768,0.9763,0.9773,33740
+dga,0.9768,0.9773,0.9762,33750
+avg/total,0.9768,0.9768,0.9768,67490
+macro,0.976766924985784,0.976767398848963,0.976767006959538,0
+accuracy,0.976766928433842,,,
+confusion matrix,legit,dga,,
+legit,32974,766,,
+dga,802,32948,,
+class,f1_score,precision,recall,support
+fold 2,,,,
+legit,0.976,0.9773,0.9747,33740
+dga,0.9761,0.9748,0.9774,33750
+avg/total,0.976,0.976,0.976,67490
+macro,0.976040841289279,0.97604453693854,0.976040694636545,0
+accuracy,0.976040894947399,,,
+confusion matrix,legit,dga,,
+legit,32886,854,,
+dga,763,32987,,
+class,f1_score,precision,recall,support
+fold 3,,,,
+legit,0.9768,0.9767,0.9769,33740
+dga,0.9768,0.9769,0.9767,33750
+avg/total,0.9768,0.9768,0.9768,67490
+macro,0.976766928352231,0.976766931047965,0.976766941096402,0
+accuracy,0.976766928433842,,,
+confusion matrix,legit,dga,,
+legit,32959,781,,
+dga,787,32963,,
+class,f1_score,precision,recall,support
+fold 4,,,,
+legit,0.9765,0.9757,0.9773,33740
+dga,0.9765,0.9773,0.9756,33750
+avg/total,0.9765,0.9765,0.9765,67490
+macro,0.976470577304591,0.976471788527807,0.976470710663242,0
+accuracy,0.976470588235294,,,
+confusion matrix,legit,dga,,
+legit,32974,766,,
+dga,822,32928,,
+class,f1_score,precision,recall,support
+fold 5,,,,
+legit,0.9759,0.975,0.9767,33740
+dga,0.9758,0.9767,0.975,33750
+avg/total,0.9759,0.9759,0.9759,67490
+macro,0.975863078105105,0.975864427955882,0.975863219829195,0
+accuracy,0.975863090828271,,,
+confusion matrix,legit,dga,,
+legit,32955,785,,
+dga,844,32906,,
+class,f1_score,precision,recall,support
+fold 6,,,,
+legit,0.9768,0.9777,0.9758,33740
+dga,0.9768,0.9758,0.9778,33750
+avg/total,0.9768,0.9768,0.9768,67490
+macro,0.976781715221106,0.976783757911179,0.976781597839689,0
+accuracy,0.97678174544377,,,
+confusion matrix,legit,dga,,
+legit,32923,817,,
+dga,750,33000,,
+class,f1_score,precision,recall,support
+fold 7,,,,
+legit,0.9763,0.9678,0.985,33740
+dga,0.9759,0.9848,0.9672,33750
+avg/total,0.9761,0.9763,0.9761,67490
+macro,0.976113142089818,0.976265356739244,0.97611630112626,0
+accuracy,0.976114979997037,,,
+confusion matrix,legit,dga,,
+legit,33235,505,,
+dga,1107,32643,,
+class,f1_score,precision,recall,support
+fold 8,,,,
+legit,0.9754,0.9756,0.9751,33740
+dga,0.9754,0.9752,0.9756,33750
+avg/total,0.9754,0.9754,0.9754,67490
+macro,0.975374125845901,0.975374267497153,0.975374093833015,0
+accuracy,0.975374129500667,,,
+confusion matrix,legit,dga,,
+legit,32901,839,,
+dga,823,32927,,
+class,f1_score,precision,recall,support
+fold 9,,,,
+legit,0.9761,0.9726,0.9796,33739
+dga,0.9759,0.9795,0.9724,33750
+avg/total,0.976,0.976,0.976,67489
+macro,0.976010617087833,0.976035463619422,0.976011496531654,0
+accuracy,0.976010905480893,,,
+confusion matrix,legit,dga,,
+legit,33052,687,,
+dga,932,32818,,
+class,f1_score,precision,recall,support
+fold 10,,,,
+legit,0.9762,0.9781,0.9743,33739
+dga,0.9763,0.9744,0.9782,33750
+avg/total,0.9763,0.9763,0.9763,67489
+macro,0.976262691811323,0.976270374062838,0.976262478964337,0
+accuracy,0.976262798381958,,,
+confusion matrix,legit,dga,,
+legit,32872,867,,
+dga,735,33015,,
+,,,,
+class,f1_score,precision,recall,support
+averaged,,,,
+legit,0.97628,0.97528,0.97727,33739.8
+dga,0.97623,0.97727,0.97521,33750
+avg/total,0.97626,0.97628,0.97626,67489.8
+macro,0.976245064209297,0.976264430314899,0.976245454147988,0
+accuracy,0.976245298968297,,,
+confusion matrix,legit,dga,,
+legit,32973.1,766.7,,
+dga,836.5,32913.5,,
